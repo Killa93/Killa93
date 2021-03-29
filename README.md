@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Killa93
 - 👀 I’m interested in Crypto and Data analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, SQL
+- 💞️ I’m looking to collaborate on the creation of an empire
 - 📫 How to reach me - GitHub
 
 <!---
